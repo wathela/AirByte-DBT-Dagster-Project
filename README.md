@@ -2,7 +2,6 @@
 
 This repository contains my implementation of the **End-to-End Data Engineering Project** from LinkedIn Learning, instructed by Thalia Barrera.
 
-![End-to-End Data Engineering Project][lil-thumbnail-url]
 
 ## Overview
 
